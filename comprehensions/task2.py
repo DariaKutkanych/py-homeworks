@@ -3,7 +3,6 @@
 
 
 def change_case(string: str) -> str:
-    # write code here
     pass
 
 

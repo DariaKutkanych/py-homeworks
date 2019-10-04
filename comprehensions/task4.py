@@ -4,7 +4,6 @@
 
 
 def compare_prices(cars1: dict, cars2: dict) -> bool:
-    # Write code here
     pass
 
 

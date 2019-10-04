@@ -4,7 +4,6 @@
 
 
 def detect_palindromes(strings: list) -> dict:
-    # Write code here
     pass
 
 

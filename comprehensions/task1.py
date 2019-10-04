@@ -3,7 +3,6 @@
 
 
 def remove_shorts(strings: list) -> list:
-    # write code here
     pass
 
 
