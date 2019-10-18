@@ -19,7 +19,7 @@
 #   add(card: Card, sum: float) - add the specified amount of money to the card
 #   change_pin(card: Card, old_pin: int, new_pin: int) - change card's pin
 #
-# Card(account: int, balance: float, pin: int, owner: Client, bank: Bank) -
+# Card(account: int, balance: float, pin: str, owner: Client, bank: Bank) -
 # account is just a random 5-digit number. Pin is 0000 by default
 # methods:
 #   transfer_money(card, amount) - transfers the money from the current card to
